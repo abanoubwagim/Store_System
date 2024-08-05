@@ -1,4 +1,4 @@
-#Store System:
+# Store System:
 
 This project talks about store inventory items and customers.
 
